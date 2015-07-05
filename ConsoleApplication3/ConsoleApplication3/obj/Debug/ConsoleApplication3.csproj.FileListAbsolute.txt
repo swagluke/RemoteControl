@@ -1,0 +1,15 @@
+c:\users\zhangl\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\zhangl\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\zhangl\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\zhangl\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\zhangl\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\FireSharp.dll
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\FireSharp.Serialization.ServiceStack.dll
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\RestSharp.dll
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ServiceStack.Text.dll
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\RestSharp.xml
+C:\Users\zhangl\Documents\Visual Studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ServiceStack.Text.xml
